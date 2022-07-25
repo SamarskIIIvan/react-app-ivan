@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app-ivan/static/css/main.52191927.css",
+    "main.js": "/react-app-ivan/static/js/main.4fa17937.js",
+    "static/js/787.9e5447bf.chunk.js": "/react-app-ivan/static/js/787.9e5447bf.chunk.js",
+    "static/media/187329109.jpeg": "/react-app-ivan/static/media/187329109.983f6e5a1799ca79d538.jpeg",
+    "index.html": "/react-app-ivan/index.html",
+    "main.52191927.css.map": "/react-app-ivan/static/css/main.52191927.css.map",
+    "main.4fa17937.js.map": "/react-app-ivan/static/js/main.4fa17937.js.map",
+    "787.9e5447bf.chunk.js.map": "/react-app-ivan/static/js/787.9e5447bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52191927.css",
+    "static/js/main.4fa17937.js"
+  ]
+}
